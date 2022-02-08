@@ -1,0 +1,7 @@
+{
+  "env": { "browser": true, "node": true, "es6": true },
+  "extends": ["eslint:recommended", "next", "next/core-web-vitals"],
+  "rules": {
+    "import/no-anonymous-default-export": 0
+  }
+}
